@@ -1,3 +1,4 @@
+# EXPENSE CALCULATOR 
 # Input Your Income: 
 - Start by entering your total income for the period (e.g., monthly salary, additional income, etc.).
 
